@@ -4,7 +4,6 @@ trr
 rnr
 nnr
 tnr
-rtr
 ntr
 ttr
 rrn
@@ -13,15 +12,10 @@ trn
 rnn
 nnn
 tnn
-rtn
 ntn
 ttn
-rrt
-nrt
-trt
 rnt
 nnt
 tnt
-rtt
 ntt
 ttt
